@@ -1,8 +1,6 @@
 package com.example.multiple;
 // Programmer: Pepper Berry
-// Class: CS &145
 // Date: 5/30/2023
-//lab 6- binary tree
 // Purpose: binary tree dictonary of customers
 import java.util.*;
 public class Test {
